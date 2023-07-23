@@ -22,13 +22,17 @@ helps you understand:
  * @param {Array} [values=[]] - The values to exclude.
  * @returns {Array} Returns the new array of filtered values.
  * @example
- *
- * difference([2, 1], [2, 3]); //  [1]
- *
- * @example
- *
- * difference([1, 2, 1], [2, 3]); //  [1]
  */
+  difference([2, 1], [2, 3]); //  [1]
+ 
+
+  @example
+
+ difference([1, 2, 1], [2, 3]); //  [1]
+onst array1 = [1, 2, 1];
+const array2 = [2, 3];
+const result = difference(array1, array2);
+console.log(result);
 ```
 
 > Docstring is adapted from
