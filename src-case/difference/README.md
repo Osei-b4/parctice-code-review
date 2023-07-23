@@ -29,11 +29,7 @@ helps you understand:
   @example
 
  difference([1, 2, 1], [2, 3]); //  [1]
-onst array1 = [1, 2, 1];
-const array2 = [2, 3];
-const result = difference(array1, array2);
-console.log(result);
-```
+
 
 > Docstring is adapted from
-> [lodash's difference](https://github.com/lodash/lodash/blob/4.17.15/lodash.js#L6947)
+> [lodass difference](https:/github.com/lodash/lodash/blob/4.17.15/lodash.js#L6947)
