@@ -32,4 +32,5 @@ helps you understand:
 
 
 > Docstring is adapted from
-> [lodass difference](https:/github.com/lodash/lodash/blob/4.17.15/lodash.js#L6947)
+> [load s difference](https:/github.com/lodash/lodash/blob/4.17.15/lodash.js#L6947)
+```
