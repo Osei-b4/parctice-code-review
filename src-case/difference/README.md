@@ -24,7 +24,7 @@ helps you understand:
  * @example
  */
   difference([2, 1], [2, 3]); //  [1]
- 
+
 
   @example
 
