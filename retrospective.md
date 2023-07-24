@@ -4,7 +4,7 @@
   compare your Development Strategy to your Project Board
   how different was your planned tasks from what you actually built?
   building something very different from your plan is not a bad thing!
-  what counts is that you learn from your mistakes and make a better 
+  what counts is that you learn from your mistakes and make a better
   plan next time.
 -->
 
@@ -45,6 +45,6 @@
 
 <!--
   what cool things or general lessons has your team learned?
-  This can be about anything! code, collaboration, git, github, 
+  This can be about anything! code, collaboration, git, github,
   Belgian history, ...
 -->
