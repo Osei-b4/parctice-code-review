@@ -1,5 +1,5 @@
-export const toSeparate = ({
-    a: 1,
-    b: 2,
-    c: 3 
-});
+export const toSeparate = {
+  a: 1,
+  b: 2,
+  c: 3,
+};
