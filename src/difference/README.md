@@ -22,14 +22,15 @@ helps you understand:
  * @param {Array} [values=[]] - The values to exclude.
  * @returns {Array} Returns the new array of filtered values.
  * @example
- *
- * difference([2, 1], [2, 3]); //  [1]
- *
- * @example
- *
- * difference([1, 2, 1], [2, 3]); //  [1]
  */
-```
+  difference([2, 1], [2, 3]); //  [1]
+
+
+  @example
+
+ difference([1, 2, 1], [2, 3]); //  [1]
+
 
 > Docstring is adapted from
-> [lodash's difference](https://github.com/lodash/lodash/blob/4.17.15/lodash.js#L6947)
+> [load s difference](https:/github.com/lodash/lodash/blob/4.17.15/lodash.js#L6947)
+```

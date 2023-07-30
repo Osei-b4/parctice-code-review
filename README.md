@@ -11,8 +11,8 @@ make the transition to collaborative development much smoother.
 - Writing Code
   - [Repo Setup](#repo-setup)
   - [Local Setup](#local-setup)
-  - [Developing Your Solutions](#developing-your-solution)
-- [Code Quality Automation](#code-quality-automation)
+  - [Developing Your solution]({#developing-your-solution})
+  - [Code Quality Automation](#code-quality-automation)
   - [`npm` scripts](#npm-scripts)
   - [Code Coverate](#code-coverage)
   - [Continuous Integration](#continuous-integration)
@@ -203,7 +203,7 @@ use Study Lenses:
 
 ---
 
-## Developing your Solutions
+### Developing your Solutions
 
 You can write, run and test your code in Node.js or the browser. Whichever you
 prefer.
